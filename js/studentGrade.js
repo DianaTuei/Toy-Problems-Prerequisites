@@ -16,6 +16,6 @@ function grade(){
     }else {
         grade = "E";
     }
-    return grade();
+    alert(`Your grade for ${marks} is: ${grade}`);
 }
 grade();
