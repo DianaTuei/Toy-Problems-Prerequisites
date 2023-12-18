@@ -30,6 +30,6 @@ location of each assignment:
 -Challenge 3: netSalaryCalc.js
 
 
-a html so as to link netSalaryCalc.js and studentGrade.js which have a prompt
+I created a html so as to link netSalaryCalc.js and studentGrade.js which have a prompt
 
 author: Diana Tuei
