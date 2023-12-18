@@ -31,3 +31,5 @@ location of each assignment:
 
 
 a html was created and linked to netSalaryCalc.js
+
+author: Diana Tuei
